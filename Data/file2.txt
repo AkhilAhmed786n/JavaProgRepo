@@ -1,0 +1,5 @@
+sample file
+compare two files
+using java
+in Eclipse
+Application
